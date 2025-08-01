@@ -1,6 +1,6 @@
 <h1 style="display: flex; align-items: center; gap: 10px;">
   Hey! Nice to see ya 
-  <img src="https://emojis.slackmojis.com/emojis/images/1643515241/12597/meow_heart_bongo.gif?1643515241" width="60px"/>
+  <img src="https://emojis.slackmojis.com/emojis/images/1643515241/12597/meow_heart_bongo.gif?1643515241" height="50px"/>
 </h1>
 
 <p>
@@ -10,7 +10,8 @@
 <p>Mixing QA expertise with full-stack exploration — because finding bugs is cool, but <b>fixing them is even cooler</b></p>
 <p>
 Currently working on:
-
+</p>
+<p>
 <img alt="Windows 11" src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" />
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img alt="Kali" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
@@ -24,7 +25,7 @@ Currently working on:
 </span>
 <span>
 
-<h2 style="display: flex; align-items: center; gap: 10px;">🛠️ Primary Toolset<img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" height="30px" /></h2>
+<h2 style="display: flex; align-items: center; gap: 10px;">🛠️ Primary Toolset<img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" height="35px" /></h2>
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img alt="nextjs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
