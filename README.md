@@ -18,9 +18,10 @@ Currently working on:
 
 
 ## 📊 Stats
-
+<span>
 <img src="https://github-readme-stats.vercel.app/api?username=wichtowski&show_icons=true&count_private=true&theme=buefy" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wichtowski&layout=compact&count_private=true&theme=buefy" />
+</span>
 <span>
 
 <h2 style="display: flex; align-items: center; gap: 10px;">🛠️ Primary Toolset<img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" height="30px" /></h2>
