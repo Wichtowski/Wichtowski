@@ -1,11 +1,9 @@
 <h1 style="display: flex; align-items: center; gap: 10px;">
-  Hey! Nice to see ya 
-  <img src="https://emojis.slackmojis.com/emojis/images/1643515241/12597/meow_heart_bongo.gif?1643515241" height="50px"/>
+  Hello there 
 </h1>
 
 <p>
-  My name is <strong>Oskar Wichtowski</strong> — a QA Engineer at <a href="https://www.vml.com/">VML Poland</a>.<br/>
-  Passionate about quality-driven development, automation, and bridging QA with dev workflows.
+  My name is <strong>Oskar Wichtowski</strong> — AI Engineer at <a href="https://www.vml.com/">VML Poland</a>.<br/>
 </p>
 <p>Mixing QA expertise with full-stack exploration — because finding bugs is cool, but <b>fixing them is even cooler</b></p>
 <p>
