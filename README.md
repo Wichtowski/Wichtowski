@@ -5,8 +5,7 @@
 <p>
   My name is <strong>Oskar Wichtowski</strong> — AI Engineer at <a href="https://www.vml.com/">VML Poland</a>.<br/>
 </p>
-<p>Mixing QA expertise with full-stack exploration — because finding bugs is cool, but <b>fixing them is even cooler</b></p>
-<p>
+
 Currently working on:
 </p>
 <p>
@@ -15,12 +14,6 @@ Currently working on:
 <img alt="Kali" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
 
-
-## 📊 Stats
-<span>
-<img src="https://github-readme-stats.vercel.app/api?username=wichtowski&show_icons=true&count_private=true&theme=buefy" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wichtowski&layout=compact&count_private=true&theme=buefy" />
-</span>
 <span>
 
 <h2 style="display: flex; align-items: center; gap: 10px;">🛠️ Primary Toolset<img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" height="35px" /></h2>
@@ -40,7 +33,6 @@ Currently working on:
 <img alt="Bash Script" src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
 <h2 style="display: flex; align-items: center; gap: 10px;">🤝 Well aquainted with <img src="https://emojis.slackmojis.com/emojis/images/1643514596/5999/meow_party.gif?1643514596" height="30px" /></h2>
-<p>I've done more then minimal knowledge of these tools it's 50/50</p>
 <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-4A4A55?style=for-the-badge&logo=openai" />
 <img alt="cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
 <img alt="Testing-Library" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
@@ -55,7 +47,6 @@ Currently working on:
 <img alt="YAML" src="https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515" />
 
 <h2 style="display: flex; align-items: center; gap: 10px;">Basic knowledge<img src="https://emojis.slackmojis.com/emojis/images/1699659569/74744/huh.gif?1699659569" height="30px" /></h2>
-<p>I've done something with but never did anything complex or commercial</p>
 <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
