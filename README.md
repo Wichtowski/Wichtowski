@@ -1,13 +1,15 @@
+
 <h1 style="text-align:center; align-items: center; gap: 10px;">
   Hello there 
 </h1>
-<div style="text-align: center;">
-  <img alt="cat wave" src="https://github.com/Wichtowski/Wichtowski/blob/main/assets/cecesrhaccc1-on-tiktok-cecesrhaccc1.gif" style="margin: 0 auto;"/>
-</div>
+<div align="center">
 
 <h3 style="text-align:center; align-items: center; gap: 10px;">
-  I'm Oskar 
+  I'm Oskar
 </h3>
+<div style="text-align: center;">
+  <img alt="cat wave" src="https://raw.githubusercontent.com/Wichtowski/Wichtowski/refs/heads/main/assets/cecesrhaccc1-on-tiktok-cecesrhaccc1.gif" style="margin: 0 auto;"/>
+</div>
 <h3 style="text-align: center; margin: 0 auto; display: flex; align-items: center; justify-content: center; gap: 10px;">
   <a href="https://www.linkedin.com/in/oskar-wichtowski/">
     <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
@@ -24,24 +26,26 @@
 </h3>
 </br>
 
-<div align="center">
 
 [![ ](https://github-readme-stats.vercel.app/api?username=wichtowski)](https://github.com/anuraghazra/github-readme-stats)
-  <img alt="cat wave" src="https://github.com/Wichtowski/Wichtowski/blob/main/assets/dance-cat-dance-cat-hands.gif.gif" style="margin: 0 auto;"/>
-
+<!-- <img alt="cat wave" src="https://raw.githubusercontent.com/Wichtowski/Wichtowski/refs/heads/main/assets/dance-cat-dance-cat-hands.gif" style="margin: 0 auto;"/> -->
+<img alt="cat wave" src="https://media1.tenor.com/m/piQ-dAIZBAkAAAAC/bingus-bongus.gif" style="margin: 0 auto;"/>
 
 ### Operating Systems
 
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 
-### Development Tools & IDEs
+### Tools & IDEs
 
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor)](#)
 [![Windsurf](https://img.shields.io/badge/Windsurf-0B100F?logo=windsurf&logoColor=fff)](#)
+
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![New Relic](https://img.shields.io/badge/New%20Relic-000?logo=newrelic&logoColor=1CE783)](#)
+[![Langfuse](https://img.shields.io/badge/Langfuse-150458?logo=langfuse&logoColor=fff)](#)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=fff)](#)
 [![Gimp](https://img.shields.io/badge/Gimp-5C5543?logo=Gimp&logoColor=fff)](#)
 
@@ -50,6 +54,8 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=FastAPI&logoColor=white)](#)
+[![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=Pydantic&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/Bash%20Scripting-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#)
 
@@ -75,6 +81,7 @@
 [![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff)](#)
 [![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)](#)
 [![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=fff)](#)
+[![Testing Library](https://img.shields.io/badge/Testing%20Library-FF?logo=pytest&logoColor=fff)](#)
 [![Snyk](https://img.shields.io/badge/Snyk-4C4A73?logo=snyk&logoColor=fff)](#)
 
 ### Databases & Caching
@@ -93,11 +100,6 @@
 [![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)](#)
 [![Pulumi](https://img.shields.io/badge/Pulumi-8a3391?logo=pulumi&logoColor=fff)](#)
 
-### Monitoring & Observability
-
-[![New Relic](https://img.shields.io/badge/New%20Relic-000?logo=newrelic&logoColor=1CE783)](#)
-[![Langfuse](https://img.shields.io/badge/Langfuse-150458?logo=langfuse&logoColor=fff)](#)
-
 ### AI & Machine Learning
 
 [![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
@@ -107,20 +109,17 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
-[![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=Pydantic&logoColor=white)](#)
-[![FastAPI](https://img.shields.io/badge/FastAPI-FFF?logo=FastAPI&logoColor=05998b)](#)
 
 </div>
-<br/><br/>
-<h3 style="text-align: center;">
-  Proud owner of <strong>two cats</strong>
-</h3>
-<h3 style="text-align: center;">
-  <img alt="cats sleeping" src="https://github.com/Wichtowski/Wichtowski/blob/main/assets/1668519507280_5e4d5056-6dbd-4b63-8136-1dbf6d098e95.png" />
-</h3>
-<h3 style="text-align: center;">
-  <a href="https://myanimelist.net/mangalist/oskyyy">
-    <img alt="myanimelist" src="https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff" />
-  </a>
-</h3>
-
+<br/>
+<div align="center">
+  <h3 style="text-align: center;">
+    Proud owner of <strong>two cats</strong>
+    <img alt="cats sleeping" src="https://raw.githubusercontent.com/Wichtowski/Wichtowski/refs/heads/main/assets/1668519507280_5e4d5056-6dbd-4b63-8136-1dbf6d098e95.png" />
+  </h3>
+  <h3 style="text-align: center;">
+    <a href="https://myanimelist.net/mangalist/oskyyy">
+      <img alt="myanimelist" src="https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff" />
+    </a>
+  </h3>
+</div>
