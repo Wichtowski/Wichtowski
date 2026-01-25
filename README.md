@@ -1,12 +1,4 @@
-
-<h1 style="text-align:center; align-items: center; gap: 10px;">
-  Hello there 
-</h1>
 <div align="center">
-
-<h3 style="text-align:center; align-items: center; gap: 10px;">
-  I'm Oskar
-</h3>
 <div style="text-align: center;">
   <img alt="cat wave" src="https://raw.githubusercontent.com/Wichtowski/Wichtowski/refs/heads/main/assets/cecesrhaccc1-on-tiktok-cecesrhaccc1.gif" style="margin: 0 auto;"/>
 </div>
