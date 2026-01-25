@@ -1,84 +1,126 @@
-<h1 style="display: flex; align-items: center; gap: 10px;">
+<h1 style="text-align:center; align-items: center; gap: 10px;">
   Hello there 
 </h1>
+<div style="text-align: center;">
+  <img alt="cat wave" src="https://github.com/Wichtowski/Wichtowski/blob/main/assets/cecesrhaccc1-on-tiktok-cecesrhaccc1.gif" style="margin: 0 auto;"/>
+</div>
 
-<p>
-  My name is <strong>Oskar Wichtowski</strong> — AI Engineer at <a href="https://www.vml.com/">VML Poland</a>.<br/>
-</p>
+<h3 style="text-align:center; align-items: center; gap: 10px;">
+  I'm Oskar 
+</h3>
+<h3 style="text-align: center; margin: 0 auto; display: flex; align-items: center; justify-content: center; gap: 10px;">
+  <a href="https://www.linkedin.com/in/oskar-wichtowski/">
+    <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
+  </a>
+  <a href="https://discord.com/users/407596349559668736">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" />
+  </a>
+  <a href="mailto:oskar.wichtowski@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://open.spotify.com/user/11144475049">
+    <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white" />
+  </a>
+</h3>
+</br>
 
-Currently working on:
-</p>
-<p>
-<img alt="Windows 11" src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" />
-<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img alt="Kali" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
-</p>
+<div align="center">
 
-<span>
+[![ ](https://github-readme-stats.vercel.app/api?username=wichtowski)](https://github.com/anuraghazra/github-readme-stats)
+  <img alt="cat wave" src="https://github.com/Wichtowski/Wichtowski/blob/main/assets/dance-cat-dance-cat-hands.gif.gif" style="margin: 0 auto;"/>
 
-<h2 style="display: flex; align-items: center; gap: 10px;">🛠️ Primary Toolset<img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" height="35px" /></h2>
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img alt="nextjs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img alt="bun" src="https://img.shields.io/badge/-BUN-000?style=for-the-badge&logo=bun&logoColor=fbf3e1" />
-<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img alt="AWS" src="https://img.shields.io/badge/-Amazon AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
-<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-1c2c34?style=for-the-badge&logo=prettier&logoColor=white" />
-<img alt="Playwright" src="https://img.shields.io/badge/-Playwright-FF0000?style=for-the-badge&logo=playwright&logoColor=white" />
-<img alt="Cursor AI IDE" src="https://img.shields.io/badge/Cursor%20AI%20IDE-000000?style=for-the-badge&logo=Cursor%20AI%20IDE&logoColor=white" />
-<img alt="Bash Script" src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
-<h2 style="display: flex; align-items: center; gap: 10px;">🤝 Well aquainted with <img src="https://emojis.slackmojis.com/emojis/images/1643514596/5999/meow_party.gif?1643514596" height="30px" /></h2>
-<img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-4A4A55?style=for-the-badge&logo=openai" />
-<img alt="cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
-<img alt="Testing-Library" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
-<img alt="Vitest" src="https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B" />
-<img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" /> 
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
-<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img alt="YAML" src="https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515" />
+### Operating Systems
 
-<h2 style="display: flex; align-items: center; gap: 10px;">Basic knowledge<img src="https://emojis.slackmojis.com/emojis/images/1699659569/74744/huh.gif?1699659569" height="30px" /></h2>
-<img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-<img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-<img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
-<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-<img alt="Symfony" src="https://img.shields.io/badge/-Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" />
-<img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
-<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-</span>
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
+
+### Development Tools & IDEs
+
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor)](#)
+[![Windsurf](https://img.shields.io/badge/Windsurf-0B100F?logo=windsurf&logoColor=fff)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=fff)](#)
+[![Gimp](https://img.shields.io/badge/Gimp-5C5543?logo=Gimp&logoColor=fff)](#)
+
+### Languages & Frameworks
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Bash](https://img.shields.io/badge/Bash%20Scripting-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#)
+
+### Frontend Development
+
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
+[![Angular](https://img.shields.io/badge/Angular-FFF?logo=Angular&logoColor=dd1b16)](#)
+
+### Build Tools & Package Managers
+
+[![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black)](#)
+[![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)](#)
+[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
+[![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff)](#)
+
+### Testing & Quality Assurance
+
+[![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff)](#)
+[![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)](#)
+[![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff)](#)
+[![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)](#)
+[![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=fff)](#)
+[![Snyk](https://img.shields.io/badge/Snyk-4C4A73?logo=snyk&logoColor=fff)](#)
+
+### Databases & Caching
+
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+[![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
+[![SurrealDB](https://img.shields.io/badge/SurrealDB-%23242133.svg?logo=SurrealDB&logoColor=FF00A0)](#)
+[![DynamoDB](https://img.shields.io/badge/DynamoDB-%230D416D.svg?logo=amazondynamodb&logoColor=white)](#)
+
+### Cloud & Infrastructure
+
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FFFFFF.svg?logo=aws&logoColor=black)](#)
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
+[![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)](#)
+[![Pulumi](https://img.shields.io/badge/Pulumi-8a3391?logo=pulumi&logoColor=fff)](#)
+
+### Monitoring & Observability
+
+[![New Relic](https://img.shields.io/badge/New%20Relic-000?logo=newrelic&logoColor=1CE783)](#)
+[![Langfuse](https://img.shields.io/badge/Langfuse-150458?logo=langfuse&logoColor=fff)](#)
+
+### AI & Machine Learning
+
+[![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
+[![Mistral AI](https://img.shields.io/badge/Mistral%20AI-FA520F?logo=mistral-ai&logoColor=fff)](#)
+[![Qwen](https://custom-icon-badges.demolab.com/badge/Qwen-605CEC?logo=qwen&logoColor=fff)](#)
+[![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+[![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=Pydantic&logoColor=white)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-FFF?logo=FastAPI&logoColor=05998b)](#)
+
+</div>
 <br/><br/>
-
-<h3 style="display: flex; align-items: center; gap: 10px;">🎧
-<a href="https://open.spotify.com/user/11144475049"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a>
+<h3 style="text-align: center;">
+  Proud owner of <strong>two cats</strong>
+</h3>
+<h3 style="text-align: center;">
+  <img alt="cats sleeping" src="https://github.com/Wichtowski/Wichtowski/blob/main/assets/1668519507280_5e4d5056-6dbd-4b63-8136-1dbf6d098e95.png" />
+</h3>
+<h3 style="text-align: center;">
+  <a href="https://myanimelist.net/mangalist/oskyyy">
+    <img alt="myanimelist" src="https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff" />
+  </a>
 </h3>
 
-<h3 style="display: flex; align-items: center; gap: 10px;">💬
-<a href="https://discord.com/users/407596349559668736"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
-</h3>
-
-<h3 style="display: flex; align-items: center; gap: 10px;">📧
-<a href="mailto:oskar.wichtowski@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</h3>
-
-<h3>My hobbies & interests:</h3>
-<ul>
-  <li>🐱 Proud owner of <strong>two cats</strong></li>
-  <li>📖 <a href="https://myanimelist.net/mangalist/oskyyy">MangaHead</a></li>
-  <li>🏀 Huge fan of the <strong>NBA</strong></li>
-  <li>💪 Gym enjoyer</li>
-  <li>🧗 From time to time I like to <strong>rock climb</strong></li>
-  <li>🍳 I love to <strong>cook</strong> (especially Italian, Chinese and Polsih Cousine)</li>
-  <li>🗞️ I used to <strong>fold origami</strong></li>
-</ul>
