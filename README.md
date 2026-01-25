@@ -28,8 +28,6 @@
 
 
 [![ ](https://github-readme-stats.vercel.app/api?username=wichtowski)](https://github.com/anuraghazra/github-readme-stats)
-<!-- <img alt="cat wave" src="https://raw.githubusercontent.com/Wichtowski/Wichtowski/refs/heads/main/assets/dance-cat-dance-cat-hands.gif" style="margin: 0 auto;"/> -->
-<img alt="cat wave" src="https://media1.tenor.com/m/piQ-dAIZBAkAAAAC/bingus-bongus.gif" style="margin: 0 auto;"/>
 
 ### Operating Systems
 
@@ -122,4 +120,6 @@
       <img alt="myanimelist" src="https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff" />
     </a>
   </h3>
+  <img alt="cat wave" src="https://media1.tenor.com/m/piQ-dAIZBAkAAAAC/bingus-bongus.gif" style="margin: 0 auto;"/>
 </div>
+<!-- <img alt="cat wave" src="https://raw.githubusercontent.com/Wichtowski/Wichtowski/refs/heads/main/assets/dance-cat-dance-cat-hands.gif" style="margin: 0 auto;"/> -->
