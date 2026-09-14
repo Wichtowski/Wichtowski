@@ -1,6 +1,6 @@
 <div align="center">
+<img alt="cat wave" src="https://raw.githubusercontent.com/Wichtowski/Wichtowski/refs/heads/main/assets/cecesrhaccc1-on-tiktok-cecesrhaccc1.gif" style="margin: 0 auto;"/>
 <h3 style="text-align: center; margin: 0 auto; display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <img alt="cat wave" src="https://raw.githubusercontent.com/Wichtowski/Wichtowski/refs/heads/main/assets/cecesrhaccc1-on-tiktok-cecesrhaccc1.gif" style="margin: 0 auto;"/>
   <a href="https://www.linkedin.com/in/oskar-wichtowski/">
     <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
   </a>
@@ -14,3 +14,4 @@
     <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white" />
   </a>
 </h3>
+<img src="https://ghstats.dev/api/card?username=wichtowski&theme=radical" alt="GitHub Stats Card" />
